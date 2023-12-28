@@ -6,7 +6,6 @@ body {
     background-image: url('assets/images/bg.gif');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100vh;
 }
 
 .visually-hidden {
